@@ -1,0 +1,16 @@
+body{
+    font-size: 20px;
+}
+
+a{
+    color: #0f6153;
+    text-decoration: none;
+}
+
+li{
+    padding-bottom: 20px;
+}
+
+.circle{
+    border: 2px solid black;
+}
